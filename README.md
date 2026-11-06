@@ -6,11 +6,7 @@
 <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://archbee-image-uploads.s3.amazonaws.com/cDRxumnUYS7OYDDxJSrpv/V6GhQfC08uqy58sfO0TT5_stars-light.svg" alt=" Trendshift" width="250" height="55"/></a>
 
 
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Official binary downloads for Wink Local AI in Releases Section.
 
