@@ -14,5 +14,11 @@
 
 Official binary downloads for Wink Local AI in Releases Section.
 
-[![Wink - Download Now](https://mywink.web.app/wink-icon.png)](https://mywink.web.app)
+<a href="https://mywink.web.app" target="_blank">
+  <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">
+    Download Now
+  </button>
+</a>
+
+
 
