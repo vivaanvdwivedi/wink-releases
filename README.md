@@ -8,6 +8,12 @@
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
+![Electron.js](https://img.shields.io/badge/Electron-%23191970.svg?style=for-the-badge&logo=Electron&logoColor=white)
+
+[![Chainlit Shield](https://img.shields.io/badge/Chainlit-Project-blue)](https://github.com/Chainlit/chainlit)
+
+
 Official binary downloads for Wink Local AI in Releases Section.
 
 <a href="https://mywink.web.app" target="_blank">
