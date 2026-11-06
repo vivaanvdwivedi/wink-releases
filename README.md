@@ -14,5 +14,5 @@
 
 Official binary downloads for Wink Local AI in Releases Section.
 
-[![Wink - Download Now](https://shields.io)](https://mywink.web.app)
+[![Wink - Download Now](https://mywink.web.app/wink-icon.png)](https://mywink.web.app)
 
