@@ -13,4 +13,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 Official binary downloads for Wink Local AI in Releases Section.
-Downlaod Now On : <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://mywink.web.app" alt=" Trendshift" width="250" height="55"/></a>
+
+[![Wink - Download Now](https://shields.io)](https://mywink.web.app)
+
